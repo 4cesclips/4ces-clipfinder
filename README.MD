@@ -12,5 +12,6 @@ Der **4ces Clipfinder** ist ein kostenloses, portables Windows-Tool für Streame
 
 ## 📥 Download & Nutzung
 1. Gehe rechts auf **Releases**.
-2. Lade die neueste `.exe` herunter.
-3. Starte die Anwendung per Doppelklick (keine Installation erforderlich).
+2. Lade die neuesten `zip files` herunter.(im gleichen Ordner )
+3. entpacke die 1. Datei die 2. sollte dann automatisch mit entpackt werden
+4. Starte die Anwendung per Doppelklick (keine weitere Installation erforderlich).
